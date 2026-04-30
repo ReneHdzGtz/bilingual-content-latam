@@ -1,5 +1,4 @@
 ---
-version: 1.0.0
 name: bilingual-content-latam
 description: >
   Expert system for creating, adapting, and localizing marketing content between
